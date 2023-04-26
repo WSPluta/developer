@@ -20,7 +20,7 @@
     {
       "title": "Lab 2: Create build and deploy pipeline",
       "description": "Interact and create OCI devops build and deploy pipeline",
-      "filename": "../../devops-resources/devops-resources.md"
+      "filename": "../../devops-pipeline/devops-pipeline.md"
     },
     {
       "title": "Lab 3: Deploy new feature with automated trigger",

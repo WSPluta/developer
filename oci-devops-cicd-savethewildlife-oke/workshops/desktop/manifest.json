@@ -18,13 +18,13 @@
       "filename": "../../deploy-infra/deploy-infra.md"
     },
     {
-      "title": "Lab 2: Get to know more about OCI Devops components",
-      "description": "Get to know more about OCI devops components and artifacts",
-      "filename": "../../devops-resources/devops-resources.md"
+      "title": "Lab 2: Create build and deploy pipeline",
+      "description": "Interact and create OCI devops build and deploy pipeline",
+      "filename": "../../devops-pipeline/devops-pipeline.md"
     },
     {
-      "title": "Lab 3: New version release",
-      "description": "Release a new version and experience canary mode",
+      "title": "Lab 3: Deploy new feature with automated trigger",
+      "description": "Release a new version and automate your build process",
       "filename": "../../newrelease/newrelease.md"
     },
     {
