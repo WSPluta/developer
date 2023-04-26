@@ -43,9 +43,6 @@ Oracle Cloud Infrastructure DevOps service provides an end-to-end CI/CD platform
 - OCI Build pipelines – A serverless, scalable service to automate build, test, artefacts and deployment invocations.
 
 
-![](images/oci-devops.png)
-
-
 ## Save the Wildlife
 
 TODO:
@@ -60,7 +57,7 @@ You may now **proceed to the next lab**.
 
 ## Acknowledgements
 
-* **Author** - Rahul M R
+* **Author** - 
 * **Contributors** -
-* **Last Updated By/Date** - Rahul M R - July 2022
+* **Last Updated By/Date** - 
 
